@@ -42,5 +42,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  }
+  },
+  "homepage": "https://gaurav0075.github.io/calander-React"
 }
